@@ -3,7 +3,7 @@
 
 This project focuses on predicting mental health symptom trajectories using mobile sensing data. The goal is to leverage machine learning techniques to analyze behavioral patterns and forecast symptom development, enabling better mental health management and intervention strategies.
 
-Dataset
+# Dataset
 
 The dataset, titled CrossCheck_Daily_Data.xlsx, consists of daily data from mobile sensing applications. It includes:
 
@@ -33,7 +33,7 @@ Potential Errors: Outliers and extreme values exist in columns like unlock_durat
 
 Missing Values: No significant missing data was detected, but further validation is recommended.
 
-Setup and Requirements
+# Setup and Requirements
 
 Prerequisites:
 
@@ -59,7 +59,7 @@ To set up the environment, install the required Python libraries:
 
 pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 
-Preprocessing Steps
+# Preprocessing Steps
 
 Data Cleaning:
 
@@ -85,7 +85,7 @@ Remove irrelevant or redundant columns.
 
 Use techniques like PCA for dimensionality reduction.
 
-Running the Code
+# Running the Code
 
 Load the Dataset:
 Ensure the dataset is in the working directory or provide the full path in the script.
@@ -96,7 +96,7 @@ Use the data_preprocessing.py module (to be created) to clean and preprocess the
 Train Models:
 Experiment with models like Random Forest, XGBoost, or Neural Networks for prediction.
 
-Expected Outcomes
+# Expected Outcomes
 
 Insights into key factors affecting mental health symptom trajectories.
 
@@ -104,14 +104,14 @@ A predictive model with high accuracy and robustness.
 
 Visualizations for easy interpretation of results.
 
-Contributing
+# Contributing
 
 Contributions are welcome! If you encounter issues or have suggestions, feel free to open a pull request or create an issue in the GitHub repository.
 
-License
+# License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact
+# Contact
 
-For any inquiries or support, please contact [Your Name or Team Name].
+For any inquiries or support, please contact Mamdouh Shawer.
