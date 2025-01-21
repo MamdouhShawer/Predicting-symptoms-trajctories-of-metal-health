@@ -1,5 +1,5 @@
 # Predicting-symptoms-trajctories-of-metal-health
-Project Overview
+# Project Overview
 
 This project focuses on predicting mental health symptom trajectories using mobile sensing data. The goal is to leverage machine learning techniques to analyze behavioral patterns and forecast symptom development, enabling better mental health management and intervention strategies.
 
