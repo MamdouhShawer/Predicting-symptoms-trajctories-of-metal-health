@@ -40,24 +40,20 @@ Prerequisites:
 Python: Version 3.8 or above.
 
 Libraries:
-
 pandas
-
-numpy
-
-matplotlib
-
-seaborn
-
-scikit-learn
-
-jupyter (optional, for notebook-based analysis)
+numpy 
+scikit-learn 
+keras 
+tensorflow 
+keras-tuner 
+matplotlib 
+openpyxl
 
 Installation:
 
 To set up the environment, install the required Python libraries:
 
-pip install pandas numpy matplotlib seaborn scikit-learn jupyter
+pip install pandas numpy scikit-learn keras tensorflow keras-tuner matplotlib openpyxl
 
 # Preprocessing Steps
 
